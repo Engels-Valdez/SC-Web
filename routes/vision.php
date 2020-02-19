@@ -1,0 +1,1 @@
+<?require_once('../view/pages/vision.view.php');?>
